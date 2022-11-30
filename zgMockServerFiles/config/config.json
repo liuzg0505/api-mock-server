@@ -1,0 +1,5 @@
+{
+  "mockFolder": "./mocks/p2test",
+  "port": "5555",
+  "sleepTimer": 300
+}

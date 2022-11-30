@@ -1,0 +1,18 @@
+
+【windows使用】
+双击打开 .exe 应用程序。
+
+【mac使用】
+双击打开应用程序，如果报错不是信任的程序，在电脑偏好设置->安全与隐私里面 点击“仍要打开”，或者加一下信任白名单。
+注意：mac使用需要先把 zgMockServerFiles 文件夹，放到用户根目录中去，比如 User/zhangwei/ 目录下面。
+
+
+【修改配置】
+修改配置请参考 zgMockServerFiles/config/配置说明.txt
+
+修改配置后需要重启程序。
+
+
+【添加mock】
+在 zgMockServerFiles/mocks 文件夹里面按需添加js文件，或者在现有js文件里面，按照格式，添加接口。
+添加mock后，需要重启程序。
